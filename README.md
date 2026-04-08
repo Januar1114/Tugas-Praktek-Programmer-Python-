@@ -2,8 +2,8 @@
 
 # Tugas-Praktek-Programmer-Python
 # Software tools
-# XAMPP (MySQL)
-# Text Editor (VS Code)
+# 1. XAMPP (MySQL)
+# 2. Text Editor (VS Code)
 
 
 # Hasil kasus uji untuk Tugas Bagian 1 
