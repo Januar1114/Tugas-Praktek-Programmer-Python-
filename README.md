@@ -19,6 +19,12 @@ Software tools
 # Soal Nomor 4
 <img width="1300" height="661" alt="Screenshot 2026-04-06 215511" src="https://github.com/user-attachments/assets/3c1f229d-e7e8-474c-835e-18ae5168ec5a" />
 
+# Hasil kasus uji untuk Tugas Bagian 2
+<img width="1302" height="621" alt="Screenshot 2026-04-06 220526" src="https://github.com/user-attachments/assets/40bde0e5-e636-492d-b5c9-1bbb1294265d" />
+<img width="1296" height="616" alt="Screenshot 2026-04-06 220648" src="https://github.com/user-attachments/assets/a483adee-dac8-4f03-926b-cb4e43cf4376" />
+
+
+
 
 
 
